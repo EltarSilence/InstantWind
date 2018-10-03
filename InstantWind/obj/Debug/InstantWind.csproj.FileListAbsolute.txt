@@ -1,0 +1,13 @@
+c:\users\giovanni\documents\visual studio 2012\Projects\InstantWind\InstantWind\bin\Debug\InstantWind.exe.config
+c:\users\giovanni\documents\visual studio 2012\Projects\InstantWind\InstantWind\bin\Debug\InstantWind.exe
+c:\users\giovanni\documents\visual studio 2012\Projects\InstantWind\InstantWind\bin\Debug\InstantWind.pdb
+c:\users\giovanni\documents\visual studio 2012\Projects\InstantWind\InstantWind\obj\Debug\InstantWind.csprojResolveAssemblyReference.cache
+c:\users\giovanni\documents\visual studio 2012\Projects\InstantWind\InstantWind\obj\Debug\InstantWind.Form1.resources
+c:\users\giovanni\documents\visual studio 2012\Projects\InstantWind\InstantWind\obj\Debug\InstantWind.Properties.Resources.resources
+c:\users\giovanni\documents\visual studio 2012\Projects\InstantWind\InstantWind\obj\Debug\InstantWind.csproj.GenerateResource.Cache
+c:\users\giovanni\documents\visual studio 2012\Projects\InstantWind\InstantWind\obj\Debug\InstantWind.exe
+c:\users\giovanni\documents\visual studio 2012\Projects\InstantWind\InstantWind\obj\Debug\InstantWind.pdb
+C:\Users\Giovanni\Documents\Visual Studio 2012\Projects\InstantWind\InstantWind\bin\Debug\InstantWind.exe.manifest
+C:\Users\Giovanni\Documents\Visual Studio 2012\Projects\InstantWind\InstantWind\bin\Debug\InstantWind.application
+C:\Users\Giovanni\Documents\Visual Studio 2012\Projects\InstantWind\InstantWind\obj\Debug\InstantWind.exe.manifest
+C:\Users\Giovanni\Documents\Visual Studio 2012\Projects\InstantWind\InstantWind\obj\Debug\InstantWind.application
